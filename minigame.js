@@ -3507,7 +3507,7 @@ digest: ` + r, "HMACSHA512-SecretKey")),
 					message: "missing features or missing ads"
 				});
 				return/* window.Analytics = ai, window.MiniGameAnalytics = ai,*/ Promise.resolve()
-
+				//run this biatch
 				/*t.platform !== oi.MATCH && (ae.load(t.features.ads), window.MiniGameAds = ae, window.MinigameAds = ae);
 				var {
 					features: e,
